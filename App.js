@@ -42,7 +42,7 @@ async function loadResourcesAsync() {
       'space-mono': require('./assets/fonts/SpaceMono-Regular.ttf'),
     }),
   ]);
-}
+}//tesgting
 
 function handleLoadingError(error) {
   // In this case, you might want to report the error to your error reporting
